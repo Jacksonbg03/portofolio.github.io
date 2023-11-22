@@ -1,14 +1,14 @@
 // Typing animation
 
 var typed = new Typed(".typing", {
-    strings:["","UI/UX Designer", "Data Scientist", "Mobile Developer", "Web Developer", "Student"],
+    strings:["","Software Engineering", "Data Scientist", "Mobile Developer", "Web Developer", "Student"],
     typeSpeed:100,
     BackSpeed:60,
     loop:true
 })
 
 var typeds = new Typed(".typings", {
-    strings:["","UI/UX Designer", "Data Scientist", "Mobile Developer", "Web Developer", "Student"],
+    strings:["","Software Engineering", "Data Scientist", "Mobile Developer", "Web Developer", "Student"],
     typeSpeed:100,
     BackSpeed:60,
     loop:true
