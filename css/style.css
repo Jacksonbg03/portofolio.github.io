@@ -380,7 +380,10 @@ h3.my-profession{
 
 
 .home .home-img img{
-    height: 400px;
+    height: 330px;
+    width: 250px;
+    object-fit: cover;
+    object-position: center bottom;
     margin: auto;
     border-radius: 5px;
     box-shadow: 0 0 0.8rem var(--skin-color);
@@ -575,7 +578,7 @@ h3.my-profession{
 }
 
 .portfolio .container{
-    padding-bottom: 100px;
+    padding-bottom: 150px;
 }
 
 .portfolio .portfolio-heading{
